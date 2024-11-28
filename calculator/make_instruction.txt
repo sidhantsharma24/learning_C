@@ -1,0 +1,1 @@
+run: 'make -f Makefile.make'
